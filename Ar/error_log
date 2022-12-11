@@ -1,0 +1,14 @@
+[01-Jun-2022 06:01:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k3rkpytw8s1c/public_html/Ar/index.php on line 40
+[01-Jun-2022 08:46:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k3rkpytw8s1c/public_html/Ar/index.php on line 40
+[01-Jun-2022 08:47:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k3rkpytw8s1c/public_html/Ar/index.php on line 40
+[01-Jun-2022 13:57:40 UTC] PHP Notice:  Undefined index: logged_in in /home/k3rkpytw8s1c/public_html/Ar/index.php on line 6
+[01-Jun-2022 13:58:00 UTC] PHP Notice:  Undefined index: logged_in in /home/k3rkpytw8s1c/public_html/Ar/index.php on line 6
+[01-Jun-2022 14:01:46 UTC] PHP Notice:  Undefined index: logged_in in /home/k3rkpytw8s1c/public_html/Ar/index.php on line 6
+[01-Jun-2022 14:01:57 UTC] PHP Notice:  Undefined index: logged_in in /home/k3rkpytw8s1c/public_html/Ar/index.php on line 6
+[18-Jul-2022 12:25:36 UTC] PHP Notice:  Undefined index: Department in /home/t2whhoxs1tm2/public_html/Ar/Employee.php on line 274
+[18-Jul-2022 12:25:36 UTC] PHP Notice:  Undefined index: Rate in /home/t2whhoxs1tm2/public_html/Ar/Employee.php on line 322
+[18-Jul-2022 12:25:36 UTC] PHP Notice:  Undefined index: Emp_ID in /home/t2whhoxs1tm2/public_html/Ar/Employee.php on line 334
+[18-Jul-2022 12:25:36 UTC] PHP Notice:  Undefined index: Pic in /home/t2whhoxs1tm2/public_html/Ar/Employee.php on line 334
+[18-Jul-2022 12:25:36 UTC] PHP Notice:  Undefined index: Emp_ID in /home/t2whhoxs1tm2/public_html/Ar/Employee.php on line 343
+[18-Jul-2022 12:25:36 UTC] PHP Notice:  Undefined index: Pic in /home/t2whhoxs1tm2/public_html/Ar/Employee.php on line 343
+[18-Jul-2022 12:25:36 UTC] PHP Notice:  Undefined index: EmpName in /home/t2whhoxs1tm2/public_html/Ar/Employee.php on line 347
